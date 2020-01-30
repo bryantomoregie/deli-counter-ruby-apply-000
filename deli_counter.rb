@@ -14,8 +14,9 @@ end
 
 def take_a_number(katz_deli)
   counter = 0
+    
     puts "Welcome, you are ticket number #{counter+1}."
-    counter += 1 
+     
 end
 
 def now_serving(katz_deli)
