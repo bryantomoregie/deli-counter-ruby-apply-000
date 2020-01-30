@@ -17,6 +17,7 @@ def take_a_number(katz_deli)
     counter += 1
     puts "Welcome, you are ticket number #{counter}."
      katz_deli << counter 
+   end 
 end
 
 def now_serving(katz_deli)
